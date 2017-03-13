@@ -1,0 +1,50 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.navbar, .navbar-inverse, .navbar-fixed-top {
+    background-color: #003c82;
+    color: white;
+}
+
+
+.nav, .navbar-nav {
+    padding-top: 50px;
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#PRZ_LOGO {
+    padding-top: 15px;
+}
+
+footer {
+    height: 60px;
+    color: white;
+    background-color: #003c82;
+    padding-left: 180px;
+    padding-top: 20px;
+}
