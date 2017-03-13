@@ -1,7 +1,12 @@
 ﻿@{
     ViewBag.Title = "Strona startowa";
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
 }
 <h2>@ViewBag.Title.</h2>
-<div>
-    <h3>Strona startowa</h3>
-</div>
+<link href='~/Content/fullcalendar.min.css' rel='stylesheet' />
+<link href='~/Content/fullcalendar.print.css' rel='stylesheet' media='print' />
+<script src='~/Scripts/moment.js'></script>
+<script src='~/Scripts/fullcalendar.min.js'></script>
+<script src="~/Scripts/calendar.js"></script>
+<div id='calendar'></div>
