@@ -24,6 +24,7 @@
                     <li>@Html.ActionLink("Home", "Index", "Home", null, new { style = "color: white"})</li>
                     <li>@Html.ActionLink("Informacje", "About", "Home", null, new { style = "color: white" })</li>
                     <li>@Html.ActionLink("Kontakt", "Contact", "Home", null, new { style = "color: white" })</li>
+                    <li>@Html.ActionLink("Czat", "Chat", "Home", null, new { style = "color: white" })</li>
                 </ul>
             </div>
         </div>
@@ -35,6 +36,6 @@
         <footer>
             <p>&copy; @DateTime.Now.Year - Politechnika Rzeszowska</p>
         </footer>
-    
+    @RenderSection("scripts", required: false)
 </body>
 </html>

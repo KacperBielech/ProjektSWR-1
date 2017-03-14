@@ -132,3 +132,14 @@ C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AI.Web.xml
 C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.csprojResolveAssemblyReference.cache
 C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.dll
 C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.pdb
+C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.dll
+C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.dll
+C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Owin.dll
+C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.xml
+C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.xml
