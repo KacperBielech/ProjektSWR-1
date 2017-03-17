@@ -10,30 +10,25 @@ namespace ProjektSWR.Controllers
     {
         public ActionResult Index()
         {
-            return Redirect("~/Home/Calendar");
+            return View();
         }
 
         public ActionResult Calendar()
         {
-                return View();
+            return View();
         }
 
         public ActionResult About()
         {
-            ViewBag.Message = "Opis.";
+            ViewBag.Message = "Your application description page.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Kontakt:";
+            ViewBag.Message = "Your contact page.";
 
-            return View();
-        }
-
-        public ActionResult Chat()
-        {
             return View();
         }
     }

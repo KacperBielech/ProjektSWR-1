@@ -1,223 +1,214 @@
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\ApplicationInsights.config
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\csc.exe
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\csc.exe.config
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\csc.rsp
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\csi.exe
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\csi.rsp
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\System.AppContext.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\vbc.exe
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\vbc.exe.config
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\vbc.rsp
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\VBCSCompiler.exe
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\ProjektSWR.dll.config
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\ProjektSWR.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\ProjektSWR.pdb
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Antlr3.Runtime.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.AI.Web.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.ApplicationInsights.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Newtonsoft.Json.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.Helpers.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.Mvc.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.Optimization.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.Razor.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Razor.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\WebGrease.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.Helpers.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.Mvc.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.Optimization.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.Razor.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Razor.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Antlr3.Runtime.pdb
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Newtonsoft.Json.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.ApplicationInsights.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\bin\Microsoft.AI.Web.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.csprojResolveAssemblyReference.cache
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.pdb
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\ApplicationInsights.config
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\csc.exe
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\csc.exe.config
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\csc.rsp
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\csi.exe
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\csi.rsp
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\System.AppContext.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\vbc.exe
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\vbc.exe.config
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\vbc.rsp
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\VBCSCompiler.exe
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\ProjektSWR.dll.config
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\ProjektSWR.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\ProjektSWR.pdb
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Antlr3.Runtime.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AI.Web.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.ApplicationInsights.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Newtonsoft.Json.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.Helpers.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.Mvc.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.Optimization.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.Razor.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Razor.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\WebGrease.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.Helpers.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.Mvc.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.Optimization.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.Razor.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Razor.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Antlr3.Runtime.pdb
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Newtonsoft.Json.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.ApplicationInsights.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AI.Web.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.csprojResolveAssemblyReference.cache
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.pdb
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.SignalR.Core.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Owin.dll
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.SignalR.Core.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Kacper\Desktop\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\ApplicationInsights.config
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\csc.exe
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\csc.exe.config
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\csc.rsp
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\csi.exe
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\csi.rsp
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\System.AppContext.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\vbc.exe
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\vbc.exe.config
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\vbc.rsp
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\VBCSCompiler.exe
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\ProjektSWR.dll.config
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\ProjektSWR.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\ProjektSWR.pdb
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Antlr3.Runtime.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AI.Web.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.ApplicationInsights.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AspNet.SignalR.Core.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.Owin.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.Owin.Security.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Newtonsoft.Json.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Owin.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.Helpers.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.Mvc.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.Optimization.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.Razor.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.WebPages.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.WebPages.Razor.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\WebGrease.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AspNet.SignalR.Core.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.Owin.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.Owin.Security.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.Helpers.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.Mvc.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.Optimization.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.Razor.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.WebPages.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\System.Web.WebPages.Razor.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Antlr3.Runtime.pdb
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Newtonsoft.Json.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.ApplicationInsights.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\bin\Microsoft.AI.Web.xml
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\obj\Debug\ProjektSWR.csprojResolveAssemblyReference.cache
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\obj\Debug\ProjektSWR.dll
-C:\Users\Kacper\Documents\GitHub\ProjektSWR-1\ProjektSWR\obj\Debug\ProjektSWR.pdb
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\ApplicationInsights.config
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\csc.exe
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\csc.exe.config
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\csc.rsp
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\csi.exe
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\csi.rsp
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\System.AppContext.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\System.IO.FileSystem.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\vbc.exe
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\vbc.exe.config
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\vbc.rsp
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\VBCSCompiler.exe
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\ProjektSWR.dll.config
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\ProjektSWR.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\ProjektSWR.pdb
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Antlr3.Runtime.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\EntityFramework.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\EntityFramework.SqlServer.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AI.Web.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.ApplicationInsights.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.Google.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Newtonsoft.Json.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Owin.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.Helpers.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.Mvc.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.Optimization.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.Razor.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Deployment.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Razor.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\WebGrease.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.Helpers.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.Mvc.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.Optimization.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.Razor.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Deployment.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\System.Web.WebPages.Razor.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Antlr3.Runtime.pdb
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Newtonsoft.Json.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\EntityFramework.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\EntityFramework.SqlServer.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.Google.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.ApplicationInsights.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\bin\Microsoft.AI.Web.xml
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.csprojResolveAssemblyReference.cache
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.dll
+c:\users\kacper\documents\visual studio 2017\Projects\ProjektSWR\ProjektSWR\obj\Debug\ProjektSWR.pdb
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\ApplicationInsights.config
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\csc.exe
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\csc.exe.config
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\csc.rsp
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\csi.exe
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\csi.exe.config
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\csi.rsp
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.AppContext.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Console.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\vbc.exe
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\vbc.exe.config
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\vbc.rsp
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\ProjektSWR.dll.config
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\ProjektSWR.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\ProjektSWR.pdb
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Antlr3.Runtime.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\EntityFramework.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\EntityFramework.SqlServer.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AI.Web.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Newtonsoft.Json.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Owin.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.Helpers.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.Mvc.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.Optimization.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.Razor.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.WebPages.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\WebGrease.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Antlr3.Runtime.pdb
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Newtonsoft.Json.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.Helpers.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.Mvc.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.Optimization.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.Razor.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.WebPages.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\EntityFramework.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\EntityFramework.SqlServer.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\bin\Microsoft.AI.Web.xml
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\obj\Debug\ProjektSWR.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\obj\Debug\ProjektSWR.dll
+C:\Users\Kacper\Desktop\ProjektSWR - NOWY\ProjektSWR\obj\Debug\ProjektSWR.pdb
