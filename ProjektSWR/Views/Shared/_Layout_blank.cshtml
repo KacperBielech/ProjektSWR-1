@@ -19,14 +19,10 @@
                     <span class="icon-bar"></span>
                 </button>
                 <img id="PRZ_LOGO" img src="http://w.prz.edu.pl/thumb/GcdkwuAx9CA3YQcDUOEyt6IH8JIx4JJzo2LBMgezZ9Lgcg,1/pl/core_settings/BAE9Ne1RBfAdl,header_logo_transparent.png" alt="PRZ LOGO" />
-                </div>
-                <!--@Html.ActionLink("System Wspomagania Rekrutacji", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })-->
+            </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Home", "Index", "Home", null, new { style = "color: white"})</li>
-                    <li>@Html.ActionLink("Informacje", "About", "Home", null, new { style = "color: white" })</li>
-                    <li>@Html.ActionLink("Kontakt", "Contact", "Home", null, new { style = "color: white" })</li>
-                    <li>@Html.ActionLink("Czat", "Chat", "Home", null, new { style = "color: white" })</li>
+                    @RenderSection("NavBar")
                 </ul>
             </div>
         </div>
@@ -35,9 +31,9 @@
         @RenderBody()
         <hr />
     </div>
-        <footer>
-            <p>&copy; @DateTime.Now.Year - Politechnika Rzeszowska</p>
-        </footer>
+    <footer>
+        <p>&copy; @DateTime.Now.Year - Politechnika Rzeszowska</p>
+    </footer>
     @RenderSection("scripts", required: false)
 </body>
 </html>

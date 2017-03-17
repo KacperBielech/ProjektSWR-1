@@ -10,7 +10,12 @@ namespace ProjektSWR.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return Redirect("~/Home/Calendar");
+        }
+
+        public ActionResult Calendar()
+        {
+                return View();
         }
 
         public ActionResult About()
