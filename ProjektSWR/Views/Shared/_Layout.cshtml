@@ -22,13 +22,15 @@
             </div>
             <!--@Html.ActionLink("System Wspomagania Rekrutacji", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })-->
             <div class="navbar-collapse collapse">
+                @Html.Partial("_LoginPartial")
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Home", null, new { style = "color: white" })</li>
+                    <li>@Html.ActionLink("Panel użytkownika", "UserPanel", "Home", null, new { style = "color: white" })</li>
                     <li>@Html.ActionLink("Kalendarz", "Calendar", "Home", null, new { style = "color: white" })</li>
-                    <li>@Html.ActionLink("Informacje", "About", "Home", null, new { style = "color: white" })</li>
-                    <li>@Html.ActionLink("Kontakt", "Contact", "Home", null, new { style = "color: white" })</li>
+                    <li>@Html.ActionLink("Info", "About", "Home", null, new { style = "color: white" })</li>
+                    <!--<li></li>-->
                 </ul>
-                @Html.Partial("_LoginPartial")
+                
             </div>
         </div>
     </div>
@@ -38,6 +40,8 @@
     </div>
     <footer>
         <p>&copy; @DateTime.Now.Year - Politechnika Rzeszowska</p>
+        @Html.ActionLink("Kontakt", "Contact", "Home", null, new { style = "color: white" })
+        
     </footer>
     @RenderSection("scripts", required: false)
 </body>

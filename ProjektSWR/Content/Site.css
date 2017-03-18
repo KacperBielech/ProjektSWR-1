@@ -32,7 +32,7 @@ textarea {
 
 
 .nav, .navbar-nav {
-    padding-top: 50px;
+    padding-top: 20px;
     padding-left: 100px;
     font-size: 14px;
     font-weight: 700;
@@ -40,13 +40,13 @@ textarea {
 }
 
 #PRZ_LOGO {
-    padding-top: 15px;
+    padding-top: 10px;
 }
 
 footer {
-    height: 60px;
+    height: 120px;
     color: white;
     background-color: #003c82;
-    padding-left: 180px;
+    padding-left: 150px;
     padding-top: 20px;
 }
