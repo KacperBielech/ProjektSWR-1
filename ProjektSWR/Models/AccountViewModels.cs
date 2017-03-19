@@ -42,14 +42,14 @@ namespace ProjektSWR.Models
     public class ForgotViewModel
     {
         [Required]
-        [Display(Name = "Nazwa użytkownika")]
+        [Display(Name = "Email")]
         public string Email { get; set; }
     }
 
     public class LoginViewModel
     {
         [Required]
-        [Display(Name = "Nazwa użytkownika")]
+        [Display(Name = "Email")]
         [EmailAddress]
         public string Email { get; set; }
 
@@ -71,7 +71,7 @@ namespace ProjektSWR.Models
     {
         [Required]
         [EmailAddress]
-        [Display(Name = "Nazwa użytkownika")]
+        [Display(Name = "Email")]
         public string Email { get; set; }
 
         [Required]
@@ -92,7 +92,7 @@ namespace ProjektSWR.Models
     {
         [Required]
         [EmailAddress]
-        [Display(Name = "Nazwa użytkownika")]
+        [Display(Name = "Email")]
         public string Email { get; set; }
 
         [Required]
@@ -113,7 +113,7 @@ namespace ProjektSWR.Models
     {
         [Required]
         [EmailAddress]
-        [Display(Name = "Nazwa użytkownika")]
+        [Display(Name = "Email")]
         public string Email { get; set; }
     }
 }
