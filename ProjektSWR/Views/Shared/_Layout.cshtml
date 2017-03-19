@@ -28,10 +28,10 @@
                     <li>@Html.ActionLink("Panel użytkownika", "UserPanel", "Home", null, new { style = "color: white" })</li>
                     <li>@Html.ActionLink("Kalendarz", "Calendar", "Home", null, new { style = "color: white" })</li>
                     <li>@Html.ActionLink("Wiadomości", "About", "Home", null, new { style = "color: white" })</li>
+                    <li>@Html.Partial("_LoginPartial")</li>
+                    <li><img height="42" width="42" img src="~/Content/img/notification_bell.png" alt="NOTIFY" /></li>
                 </ul>
-                <img id="NOTIFY" height="42" width="42" img src="~/Content/img/notification_bell.png" alt="NOTIFY" />
-            </div>
-            @Html.Partial("_LoginPartial")
+            </div> 
         </div>
     </div>
     <div class="container body-content">
