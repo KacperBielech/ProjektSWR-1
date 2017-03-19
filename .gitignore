@@ -1,3 +1,8 @@
+﻿# Ignorowanie zbudowanych plików
+ProjektSWR/obj/
+ProjektSWR/bin/
+.vs/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

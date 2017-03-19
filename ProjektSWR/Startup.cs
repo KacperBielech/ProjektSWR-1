@@ -1,14 +1,14 @@
-﻿using Owin;
-using Microsoft.Owin;
-[assembly: OwinStartup(typeof(SignalRChat.Startup))]
-namespace SignalRChat
+﻿using Microsoft.Owin;
+using Owin;
+
+[assembly: OwinStartupAttribute(typeof(ProjektSWR.Startup))]
+namespace ProjektSWR
 {
-    public class Startup
+    public partial class Startup
     {
         public void Configuration(IAppBuilder app)
         {
-            // Any connection or hub wire up and configuration should go here
-            app.MapSignalR();
+            ConfigureAuth(app);
         }
     }
 }
